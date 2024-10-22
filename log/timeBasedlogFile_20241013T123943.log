@@ -1,0 +1,12 @@
+338 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+354 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\pc\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+1023 [main] INFO  Base.BaseTest - Chrome Driver initialized properly
+1753 [main] INFO  Base.BaseTest - URL opened http://www.automationpractice.pl/index.php
+1756 [main] INFO  Base.BaseTest - Timeout 5 sec
+2019 [main] INFO  pages.HomePage - contact us link clicked properly
+2167 [main] INFO  pages.ContactUsPage - Subject heading selected
+2253 [main] INFO  pages.ContactUsPage - email selectedtestmail@ddd.com
+2309 [main] INFO  pages.ContactUsPage - Order submitted properly123
+2354 [main] INFO  pages.ContactUsPage - File attached
+2429 [main] INFO  pages.ContactUsPage - message submitted properlyI have a problem with my order.
+7583 [main] INFO  Base.BaseTest - Driver closed properly

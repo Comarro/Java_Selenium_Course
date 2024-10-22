@@ -1,0 +1,9 @@
+2131 [main] INFO  Base.BaseTest - URL opened http://www.automationpractice.pl/index.php
+2138 [main] INFO  Base.BaseTest - Timeout 5 sec
+2487 [main] INFO  pages.HomePage - contact us link clicked properly
+2632 [main] INFO  pages.ContactUsPage - Subject heading selected
+2718 [main] INFO  pages.ContactUsPage - email selectedtestmail@ddd.com
+2776 [main] INFO  pages.ContactUsPage - Order submitted properly123
+2821 [main] INFO  pages.ContactUsPage - File attached
+2895 [main] INFO  pages.ContactUsPage - message submitted properlyI have a problem with my order.
+8044 [main] INFO  Base.BaseTest - Driver closed properly

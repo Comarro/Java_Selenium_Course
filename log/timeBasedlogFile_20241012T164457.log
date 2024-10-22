@@ -1,0 +1,8 @@
+2675 [main] INFO  FillFormBasicTest - URL opened http://www.automationpractice.pl/index.php
+2681 [main] INFO  FillFormBasicTest - Timeout 5 sec
+3011 [main] INFO  FillFormBasicTest - contact us link clicked properly
+3091 [main] INFO  FillFormBasicTest - Subject heading selected
+3208 [main] INFO  FillFormBasicTest - email selectedtestmail@ddd.com
+3255 [main] INFO  FillFormBasicTest - Order submitted properly123
+3302 [main] INFO  FillFormBasicTest - message submited properlyI have a problem with my order.
+7203 [main] INFO  FillFormBasicTest - Buttopn submitet properly

@@ -1,0 +1,6 @@
+641 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+651 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\pc\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+1343 [main] INFO  Base.BaseTest - Chrome Driver initialized properly
+3353 [main] INFO  Base.BaseTest - URL opened https://cosmocode.io/automation-practice-webtable/
+3834 [main] INFO  Base.BaseTest - Element  clicked
+9016 [main] INFO  Base.BaseTest - Driver closed properly
